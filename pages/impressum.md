@@ -7,23 +7,22 @@ permalink: /impressum/
 top_url: /impressum/
 ---
 
-FFBW.de wird durch den Freifunk Karlsruhe betrieben. Freifunk Karlsruhe ist Teil des [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/).
+FFBW.de wird vom [Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.](https://vzffnrmo.de/) bereitgestellt.  ](https://freifunk-rheinland.net/).
 
 ## Angaben gemäß § 5 TMG und § 55 RStV
- Freifunk Karlsruhe <br>
- Freifunk Rheinland e.V. <br>
- Postfach 10 03 54 <br>
- 41003 Mönchengladbach
+ ffbw.de <br>
+ Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.<br>
+ Lußhardtstr. 44 <br>
+ 68753 Waghäusel
 
-#### vertreten durch den Vorstand des Freifunk Rheinland e.V.
-Vorsitzender: Philip Berndroth, Essen <br>
-stellv. Vorsitzender: Reiner Gutowski, Mönchengladbach <br>
-Schatzmeisterin: Doris Kroll-Hartge, Mönchengladbach <br>
+#### Vertreten durch den Vorstand des Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.
+Vorsitzender: Simon Terzenbach, Karlsruhe <br>
+stellv. Vorsitzende: Ann-Kristin Vester, Karlsruhe <br>
+Schatzmeister: Benedikt Neuffer, Karlsruhe <br>
 
 #### Registereintrag
-Registergericht: Amtsgericht Düsseldorf <br>
-Registernummer: VR 10563
-
+Registergericht: Amtsgericht Mannheim <br>
+Registernummer: VR 702099
 
 #### Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
